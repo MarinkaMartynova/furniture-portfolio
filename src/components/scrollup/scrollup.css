@@ -1,0 +1,61 @@
+.scrollup {
+    position: fixed;
+    right: 2.5rem;
+    /* bottom: 3rem; */
+    bottom: -20%;
+    background-color: var(--body-color);
+    opacity: 0.8;
+    /* padding: 0.3rem 0.3rem; */
+    border-radius: 0.4rem;
+    z-index: var(--z-tooltip-);
+    transition: .4s;
+}
+
+.scrollup__icon {
+    font-size: 2rem;
+    color: var(--text-color);
+}
+
+.scrollup:hover {
+    background-color: var(--white-color);
+    border: 1px solid rgba(0, 0, 0, 0.1);  
+}
+
+/* Show Scroll  */
+.show-scroll {    
+    bottom: 3rem;    
+}
+
+
+/* =======BREAKPOINTS=======  */
+/* For large device  */
+@media screen and (max-width: 992px) {
+    
+}
+
+/* For medium device  */
+@media screen and (max-width: 768px) {
+  
+
+}
+
+@media screen and (max-width: 576px) {
+  .footer__list {
+       flex-direction: column;
+       column-gap: 0;
+       align-items: center;
+       row-gap: 1.5rem;
+
+  }
+}
+
+/* For small device  */
+@media screen and (max-width: 425px) {
+  .footer__list {
+       flex-direction: column;
+       column-gap: 0;
+       align-items: center;
+       row-gap: 1.5rem;
+  }
+     
+}
