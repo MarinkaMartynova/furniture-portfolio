@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/furniture-portfolio/static/css/main.94d07b46.css",
-    "main.js": "/furniture-portfolio/static/js/main.cefba056.js",
+    "main.css": "/furniture-portfolio/static/css/main.1d4d3c5e.css",
+    "main.js": "/furniture-portfolio/static/js/main.4cd6e33e.js",
     "static/media/interdom.png": "/furniture-portfolio/static/media/interdom.1b7d3dcb958c07997b5e.png",
     "static/media/kitchen.jpeg": "/furniture-portfolio/static/media/kitchen.227f5316aaa9f1181c66.jpeg",
     "static/media/office1.jpg": "/furniture-portfolio/static/media/office1.7b7852a017a4631751d3.jpg",
@@ -12,11 +12,11 @@
     "static/media/det1.jpg": "/furniture-portfolio/static/media/det1.ee45ba4f9c98f116e3d3.jpg",
     "static/media/logo.svg": "/furniture-portfolio/static/media/logo.ab095dc3fa2271b03c9c9ea15db4b82b.svg",
     "index.html": "/furniture-portfolio/index.html",
-    "main.94d07b46.css.map": "/furniture-portfolio/static/css/main.94d07b46.css.map",
-    "main.cefba056.js.map": "/furniture-portfolio/static/js/main.cefba056.js.map"
+    "main.1d4d3c5e.css.map": "/furniture-portfolio/static/css/main.1d4d3c5e.css.map",
+    "main.4cd6e33e.js.map": "/furniture-portfolio/static/js/main.4cd6e33e.js.map"
   },
   "entrypoints": [
-    "static/css/main.94d07b46.css",
-    "static/js/main.cefba056.js"
+    "static/css/main.1d4d3c5e.css",
+    "static/js/main.4cd6e33e.js"
   ]
 }
