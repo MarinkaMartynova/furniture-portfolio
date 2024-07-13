@@ -22,7 +22,7 @@
 }
 
 .logo__img {
-    width: 120px;
+    width: 100px;
 }
 
 .nav__list {
@@ -104,8 +104,8 @@ a {
 
     .nav__close {
         position: absolute;
-        right: 1.3rem;
-        bottom: .5rem;        
+        left: 1.3rem;
+        bottom: 0.7rem;        
         font-size: 1.5rem;
         cursor: pointer;
         color: var(--title-color);
@@ -126,6 +126,15 @@ a {
         display: block;
     }
 
+    /* Reorder elements for medium devices */
+    .nav__logo {
+        order: 2;
+    }
+    
+    .nav__toggle {
+        order: 1;
+    }
+
   }
   
   /* For small device  */
@@ -136,6 +145,29 @@ a {
 
     .nav__list {
         column-gap: 0;
-    }    
+    }  
+    
+    /* Reorder elements for small devices */
+    .nav__logo {
+        order: 2;
+    }
+    
+    .nav__toggle {
+        order: 1;
+    } 
+    
+    .nav__close {
+        position: absolute;
+        left: 0.9rem;
+        bottom: 0.7rem;        
+        font-size: 1.3rem;
+        cursor: pointer;
+        color: var(--title-color);
+    }
+
+    .nav__close:hover {
+        color: var(--title-color-dark);
+    }
+    
   }
   
