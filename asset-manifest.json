@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/furniture-portfolio/static/css/main.94d07b46.css",
+    "main.js": "/furniture-portfolio/static/js/main.cefba056.js",
+    "static/media/interdom.png": "/furniture-portfolio/static/media/interdom.1b7d3dcb958c07997b5e.png",
+    "static/media/kitchen.jpeg": "/furniture-portfolio/static/media/kitchen.227f5316aaa9f1181c66.jpeg",
+    "static/media/office1.jpg": "/furniture-portfolio/static/media/office1.7b7852a017a4631751d3.jpg",
+    "static/media/office2.jpg": "/furniture-portfolio/static/media/office2.c50b17bd951ac4024688.jpg",
+    "static/media/kitch1.jpg": "/furniture-portfolio/static/media/kitch1.953815dd4057df77e5bf.jpg",
+    "static/media/kitch3.jpg": "/furniture-portfolio/static/media/kitch3.d5a6f684b08de358fcb1.jpg",
+    "static/media/kitch2.jpg": "/furniture-portfolio/static/media/kitch2.5cc791e73b013813ac0f.jpg",
+    "static/media/det1.jpg": "/furniture-portfolio/static/media/det1.ee45ba4f9c98f116e3d3.jpg",
+    "static/media/logo.svg": "/furniture-portfolio/static/media/logo.ab095dc3fa2271b03c9c9ea15db4b82b.svg",
+    "index.html": "/furniture-portfolio/index.html",
+    "main.94d07b46.css.map": "/furniture-portfolio/static/css/main.94d07b46.css.map",
+    "main.cefba056.js.map": "/furniture-portfolio/static/js/main.cefba056.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94d07b46.css",
+    "static/js/main.cefba056.js"
+  ]
+}
